@@ -13,7 +13,7 @@ return (
             transition:{duration:1, repeat:Infinity}
         }}
         >
-        MAC
+        AM
         </MotionLink>
     </div>
     )

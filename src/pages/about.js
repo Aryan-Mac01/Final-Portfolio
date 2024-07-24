@@ -39,7 +39,7 @@ return (
             <title>Aryan Mishra | About Page</title>
             <meta name="description" content="Get to know Me!"/>
         </Head>
-        <main className='flex w-full flex-col items-center justify-center'>
+        <main className='flex w-full flex-col items-center justify-center '>
             <Layout className='pt-16'>
                 <AnimatedText text="Passion Fuels Purpose!" className='mb-16'/>
                 <div className='grid w-full grid-cols-8 gap-16'>
